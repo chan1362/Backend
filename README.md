@@ -7,7 +7,7 @@ Public DNS (IPv4) : ec2-13-125-207-119.ap-northeast-2.compute.amazonaws.com
 
 <br/>
 
-# Design
+# Backend
 
 너나들이 프로젝트 백엔드 담당 | 허가온
 
